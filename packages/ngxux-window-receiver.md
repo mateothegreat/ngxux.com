@@ -155,6 +155,16 @@ export class AppComponent {
 
 Now we can call the javascript function `myExternalFunction('Hello World!!');` externally. Give it a try in your web browsers developer console!
 
+### All Methods
+
+You can add and remove methods at any time during runtime. Use the `tearDown()` method to remove _all_ methods. Removing a method will also unsubscribe your subscriptions.
+
+| Method Name | Arguments |
+| :--- | :--- |
+| add | `{ methodName: 'myFunction' }` |
+| remove | `methodName: string` |
+| tearDown | none |
+
 ## Getting Help
 
 Join us on our discord server at [https://discord.gg/programming](https://discord.gg/programming).
