@@ -1,8 +1,12 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
 
 ## PACKAGES
 
 * [ngxux-window-receiver](packages/ngxux-window-receiver.md)
+
+## Support
+
+* [Live Discord Chat](support/live-discord-chat.md)
 

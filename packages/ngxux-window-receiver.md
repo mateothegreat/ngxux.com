@@ -4,6 +4,8 @@ description: Receive external method calls.
 
 # ngxux-window-receiver
 
+![](../.gitbook/assets/image%20%281%29.png)
+
 ## Introduction
 
 The ngxUX Window Receiver Module allows you to easily expose external methods to the `window` object and observe method calls using subscriptions.
@@ -151,5 +153,7 @@ export class AppComponent {
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-![](../.gitbook/assets/image.png)
+## Getting Help
+
+Join us on our discord server at [https://discord.gg/5TmNys](https://discord.gg/5TmNys).
 
