@@ -155,5 +155,5 @@ export class AppComponent {
 
 ## Getting Help
 
-Join us on our discord server at [https://discord.gg/5TmNys](https://discord.gg/5TmNys).
+Join us on our discord server at [https://discord.gg/programming](https://discord.gg/programming).
 
