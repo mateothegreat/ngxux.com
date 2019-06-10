@@ -9,4 +9,5 @@
 ## Support
 
 * [Live Discord Chat](support/live-discord-chat.md)
+* [Contact Me](https://matthewdavis.io/contact)
 
