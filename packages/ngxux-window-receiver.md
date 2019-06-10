@@ -153,6 +153,8 @@ export class AppComponent {
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+Now we can call the javascript function `myExternalFunction('Hello World!!');` externally. Give it a try in your web browsers developer console!
+
 ## Getting Help
 
 Join us on our discord server at [https://discord.gg/programming](https://discord.gg/programming).
